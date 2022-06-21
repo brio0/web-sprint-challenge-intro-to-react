@@ -6,6 +6,7 @@ const StyledDiv = styled.div`
     color: ${props => props.theme.secondaryColor};
     background-color: ${props => props.theme.primaryColor};
     display: flex;
+    border-radius: 10%;
     justify-content: space-between;
     width: 50%;
     margin: 1% 25% 1%;
